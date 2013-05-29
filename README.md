@@ -3,6 +3,9 @@
 Content, toolchain, and web server for [Go by Example](https://gobyexample.com).
 
 
+[This fork has a few examples also in other languages.]
+
+
 ### Overview
 
 The Go by Example site is built by extracting code &
