@@ -8,3 +8,7 @@ $ go run interfaces.go
 
 # To learn more about Go's interfaces, check out this
 # [great blog post](http://jordanorelli.tumblr.com/post/32665860244/how-to-use-interfaces-in-go).
+
+
+$ javac App.java
+$ java App
